@@ -7,6 +7,6 @@ The Call Center Report Dashboard is designed to help managers and analysts monit
 The dashboard includes a range of metrics, including call volume, call duration, call resolution rates, and more. 
 The dashboard also provides insights into various channel through which customer concerns were handle and resolved.
 # Features
-`Interactive visuals that allow users to explore and analyze call center performance data`;
+`Interactive visuals that allow users to explore and analyze call center performance data`
 
-`Drill-down functionality that enables users to focus on specific metrics and timeframes`.;
+`Drill-down functionality that enables users to focus on specific metrics and timeframes`
