@@ -14,4 +14,4 @@ The dashboard also provides insights into various channel through which customer
 
 `Drill-down functionality that enables users to focus on specific metrics and timeframes`
 
-'Real-time updates of key metrics, providing up-to-the-minute insights into call center operations'
+``Real-time updates of key metrics, providing up-to-the-minute insights into call center operations
