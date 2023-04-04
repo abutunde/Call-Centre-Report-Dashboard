@@ -1,6 +1,6 @@
 ### Call-Center-Report-Dashboard
 
-![](Call Image.jpeg)
+![](Call_Image.jpeg)
 
 ## Introduction
 This project is a Call Center Report Dashboard created using Power BI, a business analytics service by Microsoft. 
