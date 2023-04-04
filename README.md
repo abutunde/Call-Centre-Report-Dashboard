@@ -13,3 +13,5 @@ The dashboard also provides insights into various channel through which customer
 `Interactive visuals that allow users to explore and analyze call center performance data`
 
 `Drill-down functionality that enables users to focus on specific metrics and timeframes`
+
+'Real-time updates of key metrics, providing up-to-the-minute insights into call center operations'
