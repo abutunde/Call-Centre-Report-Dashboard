@@ -15,10 +15,12 @@ The dashboard also provides insights into various channel through which customer
 `Drill-down functionality that enables users to focus on specific metrics and timeframes`
 
 `Real-time updates of key metrics, providing up-to-the-minute insights into call center operations`
+
 ## How to Use
 The Call Center Report Dashboard is easy to use and can be customized to suit your needs. 
 To get started, simply open the dashboard in Power BI and explore the available metrics and visualizations. 
 You can filter the data by specific timeframes, or other criteria to focus on specific areas of interest.
+
 ## Key Channels Visulized
 Average Handling Time/ Firt Level Response
 Calls (Totals,Missed and Answered)
