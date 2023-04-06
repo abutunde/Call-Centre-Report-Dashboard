@@ -22,25 +22,25 @@ To get started, simply open the dashboard in Power BI and explore the available 
 You can filter the data by specific timeframes, or other criteria to focus on specific areas of interest.
 
 ## Key Channels Visulized
-Average Handling Time/ Firt Level Response
-Calls (Totals,Missed and Answered)
-Chats (Totals,Missed and Answered)
-Outbound(Total and Unsuccessful)
-Emails (Create and Resolved)
-My Request (Created and Unsolved)
-Voice Chat (Created and Unsolved)
+- Average Handling Time/ Firt Level Response
+- Calls (Totals,Missed and Answered)
+- Chats (Totals,Missed and Answered)
+- Outbound(Total and Unsuccessful)
+- Emails (Create and Resolved)
+- My Request (Created and Unsolved)
+- Voice Chat (Created and Unsolved)
 ![](Report.png)
 
 ## Model
-Thw data model was automacally derived as it was a single table with no connection or relationship with any other table
+The data model was automacally derived as it was a single table with no connection or relationship with any other table
 ![](Model.png)
 
-Findings from analysis on Calls and Chat Channel
-Chat channel recorded Higher Average Handling time
-Averege Handling Time was Higher on Chat Channel on Saturdays
-Calls recorded Lower Average Handling time
-Lowest Average Handling time was recorded on call on Mondays
-Highest Missed Chat were recorded on Sunday 
-Highest Missed Calls were recorded on Wednesdays 
-Highest Answered Chat was recorded on Sundays
-Highest Answered Calls was recorded on Mondays
+## Findings from analysis on Calls and Chat Channel
+- Chat channel recorded Higher Average Handling time
+- Averege Handling Time was Higher on Chat Channel on Saturdays
+- Calls recorded Lower Average Handling time
+- Lowest Average Handling time was recorded on call on Mondays
+- Highest Missed Chat were recorded on Sunday 
+- Highest Missed Calls were recorded on Wednesdays 
+- Highest Answered Chat was recorded on Sundays
+- Highest Answered Calls was recorded on Mondays
