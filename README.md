@@ -32,6 +32,9 @@ You can filter the data by specific timeframes, or other criteria to focus on sp
 ## Model
 The data model was automacally derived as it was a single table with no connection or relationship with any other table
 ![](Model.png)
+## Data Source and Transformation
+Data was extracted from Google sheet and proper transformation were made through Power Query.
+Link to Data Source [Here](https://docs.google.com/spreadsheets/d/1ocZ7_ePzIys8bbMDMn4toEowcAA1oV-vwA-S-HxXeO8/edit#gid=1880035563)
 
 ## Findings from analysis on Calls and Chat Channel
 - Chat channel recorded Higher Average Handling time
