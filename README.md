@@ -10,11 +10,9 @@ The Call Center Report Dashboard is designed to help managers and analysts monit
 The dashboard includes a range of metrics, including call volume, call duration,chat volume,and chat duration and more  for a month. 
 The dashboard also provides insights into various channel through which customer concerns were handle and resolved.
 # Features
-`Interactive visuals that allow users to explore and analyze call center performance data`
-
-`Drill-down functionality that enables users to focus on specific metrics and timeframes`
-
-`Real-time updates of key metrics, providing up-to-the-minute insights into call center operations`
+- Interactive visuals that allow users to explore and analyze call center performance data
+- Drill-down functionality that enables users to focus on specific metrics and timeframes
+- Real-time updates of key metrics, providing up-to-the-minute insights into call center operations
 
 ## How to Use
 The Call Center Report Dashboard is easy to use and can be customized to suit your needs. 
@@ -44,3 +42,6 @@ The data model was automacally derived as it was a single table with no connecti
 - Highest Missed Calls were recorded on Wednesdays 
 - Highest Answered Chat was recorded on Sundays
 - Highest Answered Calls was recorded on Mondays
+
+To Interact with the report click [here](https://app.powerbi.com/groups/me/reports/0da3a6c4-9d0c-404a-aa56-64e33b138d0f/ReportSectionbb321e7dd932de97b11b?clientSideAuth=0)
+## Conclusion
