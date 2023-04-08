@@ -45,3 +45,4 @@ The data model was automacally derived as it was a single table with no connecti
 
 To Interact with the report click [here](https://app.powerbi.com/groups/me/reports/0da3a6c4-9d0c-404a-aa56-64e33b138d0f/ReportSectionbb321e7dd932de97b11b?clientSideAuth=0)
 ## Conclusion
+The report reveals that 
